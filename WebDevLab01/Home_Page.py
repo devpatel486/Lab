@@ -19,5 +19,4 @@ st.page_link("pages/2_Current_Hobbies.py", label = "***Current Hobbies***: \n A 
 
 "\n"
 
-st.header("Where I'm from 🏠")
-st.image("images/Thomasville.jpeg")
+
