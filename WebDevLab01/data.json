@@ -1,0 +1,8 @@
+{
+  "Tesla": 329.48,
+  "Google": 184.75,
+  "Palantir": 154,
+  "week_values": [7050, 7100, 7150, 7200, 7300, 7400, 7722.96],
+  "week_labels": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"]
+}
+
